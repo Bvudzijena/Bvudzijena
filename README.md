@@ -1,13 +1,17 @@
 ### Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img align='right' src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="230" />
+<img align='right' src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="250" />
 
-## I'm a Father and Developer!!
+## About [Darlington Bvudzijena](https://github.com/Bvudzijena/)!!
 
-- 🔭 
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently perfecting my React.js and always learning anything else new or trending 🐱‍🏍
+- 🌱 [Resume](https://github.com/Bvudzijena/)
+- 👔 [Hire me!](https://github.com/Bvudzijena/)
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love soccer, huge fan of Chelsea FC
+- 🥅 2021 Goals: Look for interesting Open Source to contribute to! 
+- ⚡ Fun fact: I love soccer, huge fan of [Chelsea FC](https://www.chelseafc.com/en)
+
+<br />
+<br />
 
   <img align="left" alt="Darlington Bvudzijena | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
