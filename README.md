@@ -8,7 +8,7 @@
 - 👔 [Hire me!](https://github.com/Bvudzijena/)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Look for interesting Open Source to contribute to! 
-- ⚡ Fun fact: I love soccer, huge fan of <a href="https://www.chelseafc.com/en" target="_blank">Chelsea FC</a>
+- ⚡ Fun fact: I love soccer, huge fan of <a href="https://www.chelseafc.com/en">Chelsea FC</a>
 <br />
 
 ## Languages and Tools:  
