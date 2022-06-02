@@ -1,5 +1,5 @@
 ### Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
-<img align='right' src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="250" />
+<img align='right' src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="25px" />
 
 ## About [Darlington Bvudzijena](https://github.com/Bvudzijena/)!!
 
