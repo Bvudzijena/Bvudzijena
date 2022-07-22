@@ -1,6 +1,6 @@
-# Hello there, <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="30px" height="20px" top="0px"/>
+# Hello there, <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="60px" height="40px" top="0px"/>
 
-<img align='right' src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="25px" />
+<img align='right' src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="35px" />
 
 - 🔭 I’m currently perfecting React.js (Components, Props and Hooks) 🐱‍🏍
 - 🌱 [Resume](https://github.com/Bvudzijena/)
