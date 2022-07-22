@@ -1,4 +1,4 @@
-# Hello there, <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="30px" height="75px" top="0px"/>
+# Hello there, <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="30px" height="20px" top="0px"/>
 
 <img align='right' src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="25px" />
 
