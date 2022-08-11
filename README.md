@@ -6,7 +6,7 @@
 - 🌱 [Resume](https://github.com/Bvudzijena/)
 - 👔 [Hire me!](https://github.com/Bvudzijena/)
 - 👯 I’m looking to collaborate on open source projects, feel free to get in touch
-- 🥅 2022 Goals: Look for interesting Open Source to contribute to!
+- 🥅 2022 Goals: Look for interesting Open Source to contribute!
 - ⚡ Fun fact: I love soccer, huge fan of <a href="https://www.chelseafc.com/en">Chelsea FC</a>
 <br />
 
