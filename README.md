@@ -5,8 +5,8 @@
 - 🔭 I’m currently perfecting React.js (Components, Props and Hooks) 🐱‍🏍
 - 🌱 [Resume](https://github.com/Bvudzijena/)
 - 👔 [Hire me!](https://github.com/Bvudzijena/)
-- 👯 I’m looking to collaborate on open source projects, feel free to get in touch
-- 🥅 2022 Goals: Look for interesting Open Source to contribute!
+- 👯 I’m working on an free access Zimbabwe tenders viewing website
+- 🥅 2023 Goals: see etenders.co.zw to live and changing entrepreneurial path for most people 
 - ⚡ Fun fact: I love soccer, huge fan of <a href="https://www.chelseafc.com/en">Chelsea FC</a>
 <br />
 
