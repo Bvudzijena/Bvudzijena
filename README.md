@@ -6,7 +6,7 @@
 - 🌱 [Resume](https://github.com/Bvudzijena/)
 - 👔 [Hire me!](https://github.com/Bvudzijena/)
 - 👯 I’m working on an free access Zimbabwe tenders viewing website
-- 🥅 2023 Goals: see etenders.co.zw to live and changing entrepreneurial path for most people 
+- 🥅 2023 Objectives: Continuing on working and developing prep4ielts.com, and developing React.js Skills 
 - ⚡ Fun fact: I love soccer, huge fan of <a href="https://www.chelseafc.com/en">Chelsea FC</a>
 <br />
 
