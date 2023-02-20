@@ -2,10 +2,10 @@
 
 <img align='right' src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="275px" />
 
-- 🔭 I’m currently perfecting React.js (Components, Props and Hooks) 🐱‍🏍
+- 🔭 I’m currently perfecting React.js (State Management and Hooks) 🐱‍🏍
 - 🌱 [Resume](https://github.com/Bvudzijena/)
 - 👔 [Hire me!](https://github.com/Bvudzijena/)
-- 👯 I’m working on an free access Zimbabwe tenders viewing website
+- 👯 I’m working on a IELTS Prep website with interactive resources from the British Council
 - 🥅 2023 Objectives: Continuing on working and developing prep4ielts.com, and developing React.js Skills 
 - ⚡ Fun fact: I love soccer, huge fan of <a href="https://www.chelseafc.com/en">Chelsea FC</a>
 <br />
